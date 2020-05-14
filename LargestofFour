@@ -18,7 +18,7 @@ console.log(largestOfFour ([13, 27, 18, 26]));
 console.log(largestOfFour ([32, 35, 37, 39]));
 console.log(largestOfFour  ([1000, 1001, 857, 1]));
 
-
+//this is an other way//
 
 let arr = [[1, 7, 4, 3], [23, 27, 18, 36], [32, 35, 37, 55], [1000, 10011, 857, 1]]; 
 function largest(arr) {
